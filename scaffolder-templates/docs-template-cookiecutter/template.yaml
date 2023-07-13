@@ -4,6 +4,8 @@ metadata:
   name: docs-template-cookiecutter
   title: Documentation Template (Cookiecutter)
   description: Create a new standalone documentation project using Cookiecutter
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   tags:
     - techdocs
     - mkdocs

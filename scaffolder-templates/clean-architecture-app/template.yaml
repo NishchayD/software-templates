@@ -5,6 +5,8 @@ metadata:
   name: scaffold-bancolombia-java
   title: Clean Architecture Java Template
   description: Template for the scaffolder that creates a clean architecture project java
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   tags:
     - recommended
     - java

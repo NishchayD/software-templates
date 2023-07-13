@@ -4,6 +4,8 @@ metadata:
   name: springboot-template
   title: Spring Boot gRPC Service
   description: Create a simple microservice using gRPC and Spring Boot Java
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   tags:
     - recommended
     - java
