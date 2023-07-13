@@ -4,6 +4,8 @@ metadata:
   name: docs-template
   title: Documentation Template
   description: Create a new standalone documentation project
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   tags:
     - recommended
     - techdocs
